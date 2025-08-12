@@ -91,4 +91,5 @@ This project demonstrates the life-saving potential of data-driven medical analy
 **97.4% (Logistic Regression – Tuned)**
 
 ## **For More Info**
-- **LinkedIn:** [Youssef El-Hendawy] (www.linkedin.com/in/youssef-el-hendawy-7012b4325)
+- **LinkedIn:** [Youssef El-Hendawy](https://www.linkedin.com/in/youssef-el-hendawy-7012b4325)
+
