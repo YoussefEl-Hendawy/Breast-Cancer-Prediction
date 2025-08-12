@@ -92,4 +92,4 @@ This project demonstrates the life-saving potential of data-driven medical analy
 
 ## **For More Info**
 - **GitHub:** [YoussefEl-Hendawy](https://github.com/YoussefEl-Hendawy)
-- **LinkedIn:** [Youssef El-Hendawy](www.linkedin.com/in/youssef-el-hendawy-7012b43)
+- **LinkedIn:** [Youssef El-Hendawy](www.linkedin.com/in/youssef-el-hendawy-7012b4325)
